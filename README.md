@@ -6,7 +6,7 @@ Get started
 2. 使用專案: 下載.zip 檔或使用指令:
 
 ```
-git clone https://github.com/Kaijun-Huang/Alpha-Shop.git
+git clone https://github.com/Kaijun-Huang/TodoLIst-CRUD.git
 ```
 
 3. 使用 terminal 進入專案資料夾使用指令:
