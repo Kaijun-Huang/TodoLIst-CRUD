@@ -1,6 +1,6 @@
 import { Footer, Header, TodoCollection, TodoInput } from 'components';
 import { useState } from 'react';
-
+import { v4 as uuidv4 } from 'uuid';
 const dummyTodos = [
   {
     title: 'Learn react-router',
@@ -36,11 +36,12 @@ const TodoPage = () => {
   };
   const handleAddTodo = () => {
     if (inputValue.length !== 0) {
+      console.log(uuidv4());
       setTodos((prevTodos) => {
         return [
           ...prevTodos,
           {
-            id: Math.random() * 100,
+            id: uuidv4(),
             title: inputValue,
             isDone: false,
           },

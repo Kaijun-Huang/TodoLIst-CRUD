@@ -13,10 +13,10 @@ const TodoCollection = ({
         <TodoItem
           key={todo.id}
           todo={todo}
-          onToggleDone={(id) => onToggleDone?.(id)}
-          onChangeMode={({ id, isEdit }) => onChangeMode?.({ id, isEdit })}
-          onSave={({ id, title }) => onSave?.({ id, title })}
-          onDelete={(id) => onDelete(id)}
+          onToggleDone={onToggleDone}
+          onChangeMode={onChangeMode}
+          onSave={onSave}
+          onDelete={onDelete}
         />
       ))}
     </div>
