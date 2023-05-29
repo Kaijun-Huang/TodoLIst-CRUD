@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/TodoLIst-CRUD/static/css/main.4097c508.chunk.css",
-    "main.js": "/TodoLIst-CRUD/static/js/main.0d5764b2.chunk.js",
-    "main.js.map": "/TodoLIst-CRUD/static/js/main.0d5764b2.chunk.js.map",
+    "main.css": "/TodoLIst-CRUD/static/css/main.81e9703d.chunk.css",
+    "main.js": "/TodoLIst-CRUD/static/js/main.d161dbd1.chunk.js",
+    "main.js.map": "/TodoLIst-CRUD/static/js/main.d161dbd1.chunk.js.map",
     "runtime-main.js": "/TodoLIst-CRUD/static/js/runtime-main.05ddd8c2.js",
     "runtime-main.js.map": "/TodoLIst-CRUD/static/js/runtime-main.05ddd8c2.js.map",
-    "static/js/2.ce3cd254.chunk.js": "/TodoLIst-CRUD/static/js/2.ce3cd254.chunk.js",
-    "static/js/2.ce3cd254.chunk.js.map": "/TodoLIst-CRUD/static/js/2.ce3cd254.chunk.js.map",
+    "static/js/2.7ddc8f53.chunk.js": "/TodoLIst-CRUD/static/js/2.7ddc8f53.chunk.js",
+    "static/js/2.7ddc8f53.chunk.js.map": "/TodoLIst-CRUD/static/js/2.7ddc8f53.chunk.js.map",
     "static/js/3.c07d80fe.chunk.js": "/TodoLIst-CRUD/static/js/3.c07d80fe.chunk.js",
     "static/js/3.c07d80fe.chunk.js.map": "/TodoLIst-CRUD/static/js/3.c07d80fe.chunk.js.map",
     "index.html": "/TodoLIst-CRUD/index.html",
-    "static/css/main.4097c508.chunk.css.map": "/TodoLIst-CRUD/static/css/main.4097c508.chunk.css.map",
-    "static/js/2.ce3cd254.chunk.js.LICENSE.txt": "/TodoLIst-CRUD/static/js/2.ce3cd254.chunk.js.LICENSE.txt",
-    "static/media/ac-logo.eea79863.svg": "/TodoLIst-CRUD/static/media/ac-logo.eea79863.svg",
-    "static/media/check-active.680985db.svg": "/TodoLIst-CRUD/static/media/check-active.680985db.svg",
-    "static/media/check-circle.ad8591fd.svg": "/TodoLIst-CRUD/static/media/check-circle.ad8591fd.svg",
-    "static/media/check-hover.f1b1bcfd.svg": "/TodoLIst-CRUD/static/media/check-hover.f1b1bcfd.svg"
+    "static/css/main.81e9703d.chunk.css.map": "/TodoLIst-CRUD/static/css/main.81e9703d.chunk.css.map",
+    "static/js/2.7ddc8f53.chunk.js.LICENSE.txt": "/TodoLIst-CRUD/static/js/2.7ddc8f53.chunk.js.LICENSE.txt",
+    "static/media/ac-logo.f4e0f3cb.svg": "/TodoLIst-CRUD/static/media/ac-logo.f4e0f3cb.svg",
+    "static/media/check-active.95ca055c.svg": "/TodoLIst-CRUD/static/media/check-active.95ca055c.svg",
+    "static/media/check-circle.30720b46.svg": "/TodoLIst-CRUD/static/media/check-circle.30720b46.svg",
+    "static/media/check-hover.5e00062b.svg": "/TodoLIst-CRUD/static/media/check-hover.5e00062b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.05ddd8c2.js",
-    "static/js/2.ce3cd254.chunk.js",
-    "static/css/main.4097c508.chunk.css",
-    "static/js/main.0d5764b2.chunk.js"
+    "static/js/2.7ddc8f53.chunk.js",
+    "static/css/main.81e9703d.chunk.css",
+    "static/js/main.d161dbd1.chunk.js"
   ]
 }
